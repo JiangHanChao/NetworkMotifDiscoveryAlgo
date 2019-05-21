@@ -2,7 +2,7 @@
 # project config
 import os
 
-from MotifSystem.settings import UPLOAD_COMOFINDER_ROOT
+from project.settings import UPLOAD_COMOFINDER_ROOT
 
 
 # project data directory name
